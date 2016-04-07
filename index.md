@@ -268,8 +268,13 @@ Member of the North Carolina Bar and the Florida Bar (inactive).
 [Tumblr](http://statonjr.tumblr.com/)
 
 ## [Martin A. Clausen](https://github.com/maacl)
+Managing Director at Syngrato - next generation contract mangement and legaltech consulting for ambitious law firms and legal departments.
 
+Recovering ex-General Counsel.
+
+[Keybase](https://keybase.io/maacl)
 [Personal Website](http://www.spyfoos.com)
+[Company Website](http://www.syngrato.com)
 
 ## [Preston Byrne](https://github.com/prestonjbyrne)
 
